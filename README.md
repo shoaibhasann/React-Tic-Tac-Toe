@@ -44,5 +44,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 - This project is inspired by the Tic Tac Toe game from the React official tutorial.
 
 ---
-
-Feel free to update the sections as necessary to reflect the actual details of your project. Ensure to include a proper demo link when you host your project online. Additionally, update the technologies used and acknowledgments sections to properly credit any libraries, frameworks, or tutorials you utilized in your project. Good luck with your GitHub repository!
